@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @h-yamani
-- 👀 I’m interested in machine learning and deep learning 
-- 🌱 I’m currently learning machine learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hoda
+- 👀 🌱 I’m interested in machine learning and deep learning 
+
 
 <!---
 h-yamani/h-yamani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
