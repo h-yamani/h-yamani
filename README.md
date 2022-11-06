@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Hoda
-- 👀 🌱 I’m interested in machine learning and deep learning 
+- 👀 🌱 I’m interested in machine learning and deep learnin
+- 👯 I’m looking to collaborate on new Statup projects and ideas
+- 💬 Ask me about Python, programming, AI, ML and DL.
 
 
 <!---
