@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoda
 - 👀 I’m interested in machine learning and deep learning
-- 🌱
+- 🌱 I’m currently learning Reinforcement Learning with Pytorch
 - 👯 I’m looking to collaborate on new Statup projects and ideas
 - 💬 Ask me about Python, programming, AI, ML and DL.
 
