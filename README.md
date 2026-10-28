@@ -9,13 +9,7 @@
 
 ## About
 
-Machine Learning Engineer and PhD researcher specializing in reinforcement learning, deep learning, and intelligent autonomous systems.
-
-My work focuses on developing learning algorithms that improve sample efficiency, stability, and adaptability through experience-driven and memory-guided learning.
-
-I have experience designing, implementing, and evaluating reinforcement learning algorithms across simulation environments and real-world robotic systems.
-
-My interests include robot learning, imitation learning, Vision-Language-Action (VLA) models, and bridging machine learning research with practical applications.
+Machine Learning Engineer and PhD researcher specializing in reinforcement learning, deep learning, and intelligent autonomous systems. My work focuses on developing learning algorithms that improve sample efficiency, stability, and adaptability through experience-driven and memory-guided learning. I have experience designing, implementing, and evaluating reinforcement learning algorithms across simulation environments and real-world robotic systems. My interests include robot learning, imitation learning, Vision-Language-Action (VLA) models, and bridging machine learning research with practical applications.
 
 ---
 
